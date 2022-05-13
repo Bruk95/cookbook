@@ -1,0 +1,20 @@
+{
+    "recipes":[
+        {"id":"0",
+         "name":"Bizcocho de naranja glaseado con chocolate",
+         "description":"Bizcocho de naranja glaseado con chocolate. La naranja y el chocolate son dos sabores que maridan a la perfección, aquí tienes los dos juntos para disfrutar.",
+         "ingredients":["6 huevos",
+            "500 g de harina",
+            "360 g de azúcar",
+            "50 g de mantequilla",
+            "300 g de chocolate con leche",
+            "60 ml de aceite de oliva",
+            "20 g de levadura en polvo (polvos de hornear)",
+            "120 ml de zumo de naranja",
+            "Ralladura de una naranja"                     
+                       ],
+         "isFavorite":"0",
+         "photo":""
+        }
+    ]
+}
